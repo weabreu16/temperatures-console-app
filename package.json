@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/weabreu16/temperatures-console-app/issues"
   },
-  "homepage": "https://github.com/weabreu16/temperatures-console-app#readme"
+  "homepage": "https://github.com/weabreu16/temperatures-console-app#readme",
+  "dependencies": {
+    "kata-temperatures": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.14"
+  }
 }
